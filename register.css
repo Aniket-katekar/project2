@@ -114,7 +114,10 @@ input[type='radio']{
         font-size: 15px;
     }
     .input-box input[type='text'],input[type='password'],input[type='date'],input[type='email'],input[type='number']{
-        font-size: 10px;
+        font-size: 14px;
         height: 25px;
+        padding: 0px 5px;
+        width: 53%;
+        right:5px;
     }
 }
